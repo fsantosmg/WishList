@@ -14,3 +14,6 @@ spring.data.mongodb.password=${MONGODB_PASSWORD}
 spring.data.mongodb.authentication-database=${MONGODB_AUTHENTICATION_DATABASE}
 spring.data.mongodb.auto-index-creation=true
 customer.wishlist.limit=${WISHLIST_LIMIT}
+
+
+O arquivo docker-compose ajudará a instanciar um container docker contendo o MongoDB e o Mongo Express.
