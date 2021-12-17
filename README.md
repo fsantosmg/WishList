@@ -15,5 +15,6 @@ spring.data.mongodb.authentication-database=${MONGODB_AUTHENTICATION_DATABASE}<b
 spring.data.mongodb.auto-index-creation=true<br>
 customer.wishlist.limit=${WISHLIST_LIMIT}<br>
 
+Swagger: http://localhost:8080/swagger-ui.html<br>
 
 O arquivo docker-compose ajudará a instanciar um container docker contendo o MongoDB e o Mongo Express.
